@@ -27,7 +27,7 @@ function makeInt(n) {
   return n
 }
 function preserveDecimal(n){
-  parseFloat('n.2222')
+  parseFloat('n.nnn')
   return n
 }
 function preserveDecimal(n){
