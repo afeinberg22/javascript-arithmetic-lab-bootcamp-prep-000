@@ -31,5 +31,6 @@ function preserveDecimal(n){
   return n
 }
 function preserveDecimal(n){
-  parseInt()  
+  parseInt('nonsense!')
+  return n
 }
