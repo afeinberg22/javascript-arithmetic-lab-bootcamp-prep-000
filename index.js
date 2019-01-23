@@ -30,4 +30,6 @@ function preserveDecimal(n){
   parseFloat('n')
   return n
 }
-function pres
+function preserveDecimal(n){
+  parseInt()  
+}
