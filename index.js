@@ -29,3 +29,6 @@ function preserveDecimal(n){
   parseInt('nonsense!')
   return n
 }
+function preserveDecimal(n){
+  return parseFloat(n);
+}
